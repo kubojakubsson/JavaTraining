@@ -1,2 +1,3 @@
 # JavaTraining
 text
+text2
